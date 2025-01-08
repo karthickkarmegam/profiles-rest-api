@@ -1,5 +1,4 @@
 from random import choice
-import csv
 from string import ascii_lowercase as Letters
 
 domain = ["gmail","ymail","outlook"]
